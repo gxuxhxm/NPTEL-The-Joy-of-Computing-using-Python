@@ -53,8 +53,7 @@ To clone this repository and integrate it with Obsidian, follow these steps:
 6. Go to "Settings" > "File Sync" in Obsidian and set the local folder to the location of your cloned repository.
 7. Move the cloned repository into your Obsidian vault directory.
 8. Sync your Obsidian vault with the contents of the cloned repository.
-Once you've completed these steps, your Obsidian vault should be integrated with the repository, allowing you to access and work with the contents seamlessly.
-
+Once you've completed these steps, your Obsidian vault should be integrated with the repository, allowing you to access and work with the contents seamlessly. It should look like this:
 ## Screenshots
 
 ![Screenshot 2023-10-28 094446](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/b5dd3641-93a2-499b-aaf2-8a85ad4bfdf4)
