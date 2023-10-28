@@ -38,6 +38,22 @@ This course is a fun-filled whirlwind tour that spans 30 hours, covering everyth
 | Week 11 | Browser Automation,Fun with Calendar | [WEEK 11](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/NOTES/WEEK%2011.md) | [Dir link](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Source-codes/WEEK%2011) |
 | Week 12 | How does google work,Collatz Conjecture | [WEEK 12](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/NOTES/WEEK%2012.md) | [Dir link](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Source-codes/WEEK%2012) |
 
+## How to Use:
+To clone this repository and integrate it with Obsidian, follow these steps:
+1. Open Git Bash on your computer.
+2. Use the following command to clone the repository:
+   
+    ```bash
+    git clone https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python.git
+    ```
+
+3. If you haven't already, download and install [Obsidian](https://obsidian.md/) on your computer.
+4. Launch Obsidian.
+5. Create a new vault or choose an existing one to import the content from the cloned repository.
+6. Go to "Settings" > "File Sync" in Obsidian and set the local folder to the location of your cloned repository.
+7. Move the cloned repository into your Obsidian vault directory.
+8. Sync your Obsidian vault with the contents of the cloned repository.
+Once you've completed these steps, your Obsidian vault should be integrated with the repository, allowing you to access and work with the contents seamlessly.
 
 ## Screenshots
 
