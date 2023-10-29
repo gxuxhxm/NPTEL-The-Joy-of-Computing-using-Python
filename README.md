@@ -24,7 +24,7 @@ This course is a fun-filled whirlwind tour that spans 30 hours, covering everyth
 
 ## Weekly Topics
 
-| Weeks | Content | Link | Source codes | Assignments |
+| Weeks | Content | Notes | Source codes | Assignments |
 | ----- | ------- | ---- | ------------ | ----------- |
 | JOCP Roadmap | to-do list | [JOCP ROAD MAP](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/JOCP%20ROAD%20MAP.md?plain=1) | --- | --- |
 | Week 1 | Introduction to ,Scratch Features of Scratch,Loops| [WEEK 1](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/NOTES/WEEK%201.md) | --- |  [LINK](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/Assignments/WEEK%201.md) |
