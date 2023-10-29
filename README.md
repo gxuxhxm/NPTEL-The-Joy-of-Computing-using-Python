@@ -8,6 +8,8 @@ NPTEL-The-Joy-of-Computing-using-Python with NOTES and Weekly quizes Answers
 - **Course Notes:** [NOTES](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/NOTES)
 - **Course Roadmap:** [JOCP ROAD MAP.md](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/blob/main/JOCP%20ROAD%20MAP.md)
 - **Course Link:** [NPTEL - The Joy Of Computing Using Python](https://onlinecourses.nptel.ac.in/noc23_cs108/course)
+- **Source Codes:** [Source-codes](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Source-codes)
+- **Assignments:** [Assignments](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/tree/main/Assignments)
 
 ## Course Details
 
