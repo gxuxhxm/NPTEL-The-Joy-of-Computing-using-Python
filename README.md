@@ -1,6 +1,6 @@
 # NPTEL-The-Joy-of-Computing-using-Python
-NPTEL-The-Joy-of-Computing-using-Python with NOTES and Weekly quizes Answers 
-
+NPTEL-The-Joy-of-Computing-using-Python with NOTES and Weekly quizes Answers <br>
+![h](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/4b1ab43c-ad26-4e22-a588-9ce9fb55c5d6)
 ![Screenshot 2023-10-28 094344](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/9afefd12-5e07-40f2-b3c0-f0053e3dbf46)
 
 ## Course Links
