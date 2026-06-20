@@ -1,6 +1,6 @@
 # NPTEL-The-Joy-of-Computing-using-Python
 NPTEL-The-Joy-of-Computing-using-Python with NOTES and Weekly quizes Answers <br>
-![h](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/4b1ab43c-ad26-4e22-a588-9ce9fb55c5d6)
+
 ![Screenshot 2023-10-28 094344](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/9afefd12-5e07-40f2-b3c0-f0053e3dbf46)
 
 ## Course Links
@@ -59,7 +59,7 @@ To clone this repository and integrate it with Obsidian, follow these steps:
 Once you've completed these steps, your Obsidian vault should be integrated with the repository, allowing you to access and work with the contents seamlessly. It should look like this:
 ## Screenshots
 
-![Screenshot 2023-10-28 094446](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/b5dd3641-93a2-499b-aaf2-8a85ad4bfdf4)
+
 ![Screenshot 2023-10-28 094344](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/9afefd12-5e07-40f2-b3c0-f0053e3dbf46)
 ![Screenshot 2023-10-28 094326](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/c192be11-e667-404e-b56c-96cbf5fa9cc7)
 ![Screenshot 2023-10-28 094315](https://github.com/gxuxhxm/NPTEL-The-Joy-of-Computing-using-Python/assets/114379335/8febbe07-18b5-4828-87c4-be9d4efbe76b)
